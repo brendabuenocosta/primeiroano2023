@@ -25,9 +25,9 @@ p{
     border-radius: 20px
 }
 .fotos {
-    width: 1000px;
-    height: 500px;
-    margin: 30px;
-    padding: 5px;
-    border: 0.10rem solid #2c3546;
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    padding: 3px;
+    border: 0.5rem solid #2c3546;
     border-radius: 24px;
