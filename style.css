@@ -3,8 +3,8 @@ body {
     background-image: linear-gradient(pink, purple, pink);
 }
 header {
-    background-color: #C71585;
-    border-bottom: 2px solid #A9A9A9;
+    background-color: #FF1493;
+    border-bottom: 2px solid black;
 }
 
 h1 {
