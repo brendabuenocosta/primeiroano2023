@@ -6,7 +6,9 @@ header {
     background-color: #FF69B4;
     border-bottom: 2px solid black;
 }
-
+.cabecalho {
+    display: flex;
+    justify-content: space-around;
 h1 {
     color: black;
     font-size: 50px;
@@ -38,4 +40,14 @@ p{
     border: 0.5rem solid #2c3546;
     border-radius: 24px;
 
+}
+.lista {
+    font-size: 20px;
+    color:white;
+    list-style: none;
+}
+
+.item-lista {
+    display: inline-block;
+    justify-content: spare-around;
 }
